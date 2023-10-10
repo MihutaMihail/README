@@ -1,6 +1,8 @@
 # README
 Le but de ce README est d'introduire un peu les projets et de spécifier le travail que j'ai fait sur ces projets. Il faut aussi noter certains projets ont été développer en moins de temps que d'autres. Par example, j'ai eu 2 semaines à faire l'emulateur Chip-8 et 4-6 semaines pour les autres projets. Pour finir, je n'ai pas utiliser les outils / langages dans B1 / B2 (pour le moment) que j'ai utilisé dans BTS SIO.
 
+C'est normal de ne voir que 1 commit puisque ces projets (sauf Chip-8 Emulator) ont été ajouté depuis Gitea et Gitlab.
+
 # PROJETS - (B1 - B2)
 ## /// Tamagotchi - B1 \\\ 
 ### Description
@@ -41,3 +43,9 @@ Tout qui est dans code/publications (sauf likes.go et comments.go) + la base de 
 Utilisant Golang, faire un emulateur des jeux Chip-8.
 ### Travail
 C'est expliquer dans le README du projet quels sont les ressources utilisé pour réussir à ce projet (et les grosses problèmes du emulateur) mais je suis seul à travailler dessous.
+
+## /// Application Crous - BTS SIO \\\ 
+### Description
+Développer une application où on peut gérer le nombre de colocataires et leur dépenses
+### Travail
+Tout a été fait par moi.
