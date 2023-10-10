@@ -49,3 +49,9 @@ C'est expliquer dans le README du projet quels sont les ressources utilisé pour
 Développer une application où on peut gérer le nombre de colocataires et leur dépenses
 ### Travail
 Tout a été fait par moi.
+
+## /// Code Igniter4 - BTS SIO \\\ 
+### Description
+Développer un site web pour gérer des tâches. Ce code doit être sur une machine ubuntu pour démarrer le serveur et ensuite on pourra accéder le site web depuis le localhost
+### Travail
+Tout a été fait par moi.
