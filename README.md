@@ -1,8 +1,7 @@
 # README
 Le but de ce README est d'introduire un peu les projets et de spécifier le travail que j'ai fait sur ces projets. Il faut aussi noter certains projets ont été développer en moins de temps que d'autres. Par example, j'ai eu 2 semaines à faire l'emulateur Chip-8 et 4-6 semaines pour les autres projets. Pour finir, je n'ai pas utiliser les outils / langages dans B1 / B2 (pour le moment) que j'ai utilisé dans BTS SIO.
 
-C'est normal de ne voir que 1 commit puisque ces projets (sauf Chip-8 Emulator) ont été ajouté depuis Gitea et Gitlab.
-Ce README a été fait vite fait vu le fait que j'ai quelques projets que je suis en train de faire, par contre, ce README et spécialement les README des projets vont être retravailler dessous.
+Ce README a été fait vite fait vu le fait que j'ai quelques projets que je suis en train de faire, par contre, ce README est temporraire vu que je retravailler sur chaque README individuellement.
 
 # PROJETS - (B1 - B2)
 ## // Tamagotchi - B1 \\\ 
